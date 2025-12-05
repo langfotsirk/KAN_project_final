@@ -10,3 +10,4 @@ seaborn
 pyyaml
 ipympl
 ipywidgets
+pykan
